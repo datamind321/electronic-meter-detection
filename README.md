@@ -13,5 +13,7 @@
 
 ## Roboflow Model Link 
 
+## https://universe.roboflow.com/digitalmeterrecognisation/number-detection-for-v9-n8bfo/model/1
+
 ![image](https://github.com/user-attachments/assets/a6d8fff6-71eb-4a21-bbdb-7aab4d70f807)
 
